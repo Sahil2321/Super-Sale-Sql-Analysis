@@ -160,7 +160,7 @@ Through this project I gained hands-on experience in:
 
 ## 👨‍💻 Author
 **Sahil Dange**  
-BSc Data Science (2026)  
+
 
 **Skills:** SQL, Power BI, Excel, Python, Data Analytics  
 
