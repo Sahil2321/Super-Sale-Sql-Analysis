@@ -159,13 +159,13 @@ Through this project I gained hands-on experience in:
 ---
 
 ## 👨‍💻 Author
-**Rushikesh Narayan Sultane**  
+**Sahil Dange**  
 BSc Data Science (2026)  
 
 **Skills:** SQL, Power BI, Excel, Python, Data Analytics  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rushi-sultane-32284b381)  
-💻 [GitHub](https://github.com/rushi-7900)  
+ 
+💻 [GitHub](https://github.com/Sahil2321)  
   
 
 
